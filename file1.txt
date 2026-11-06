@@ -1,2 +1,5 @@
 This is the original file
+<<<<<<< HEAD
 Remote developer changes
+Local developer changes
+>>>>>>> 657d1cc (Local Developer change)
