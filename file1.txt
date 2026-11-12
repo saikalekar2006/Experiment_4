@@ -1,3 +1,1 @@
-This is original file
-remote developer change
-local developer change
+This is the original file
